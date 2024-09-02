@@ -13,10 +13,10 @@ The Honey and Mumford, learning style model, is a way to understand how people l
 
 As a line manager/leader, you should understand your natural learning style and be able to switch to different learning mindsets to adjust to new and other scenarios.
 
-Reading Resources: https://cec.hscni.net/wp-content/uploads/2020/01/Honey-and-Mumford-Learning-Styles-2.pdf
-Video Resources: https://www.youtube.com/watch?v=-92dIFiN_p8 
-Audible Resources:
-Actionable: 
+- Reading Resources: https://cec.hscni.net/wp-content/uploads/2020/01/Honey-and-Mumford-Learning-Styles-2.pdf
+- Video Resources: https://www.youtube.com/watch?v=-92dIFiN_p8 
+- Audible Resources:
+- Actionable: 
 
 ## Kolb
 
@@ -29,7 +29,7 @@ Kolb’s theory defines experiential learning as a four-stage process:
  Abstract conceptualisation: The learner adapts their thinking or constructs new ideas based on experience and reflection. For example, the nursing student realises they must have all their materials ready before starting the procedure.
  Active experimentation: The learner applies their new ideas to real-world situations to test whether they work and see if any changes need to be made. This process can happen quickly or over an extended time. Our nursing students might note how smoothly things go consistently when they have everything ready for a procedure in advance.
 
-Reading Resources: https://www.simplypsychology.org/learning-kolb.html
-Video Resources: https://www.youtube.com/watch?v=rycjUldMl3k
-Audible Resources:
-Actionable: 
+- Reading Resources: https://www.simplypsychology.org/learning-kolb.html
+- Video Resources: https://www.youtube.com/watch?v=rycjUldMl3k
+- Audible Resources:
+- Actionable: 
