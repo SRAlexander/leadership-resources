@@ -1,6 +1,6 @@
 # Managing Self
 
-## Honey and Mumford learning cycle
+## Learning Styles - Honey and Mumford learning cycle
 
 The Honey and Mumford, learning style model, is a way to understand how people learn and retain information. It's based on the idea that people have four different learning styles that they move through over time but eventually develop a preference for one or more. The four styles are: 
 
@@ -17,7 +17,7 @@ Resources:
 - Audible Resources:
 - Actionable: 
 
-## Kolb
+## Learning Styles - Kolb
 
 Experiential learning theory is about learning by doing. Developed by psychologist David Kolb, the theory describes the learning process whereby knowledge is created through experience. Kolb’s theory explains that concrete experience, reflective observation, abstract conceptualisation and active experimentation form a four-stage process (or cycle) transformed into effective learning. 
 
