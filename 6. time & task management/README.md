@@ -1,8 +1,6 @@
 # Time & Task Management
 
-## Learning Styles
-
-### Stephen Covey's Time Management Matrix
+## Stephen Covey's Time Management Matrix
 
 A time management matrix is a methodology of planning your tasks according to their importance and deadline so that you can do them at the right time. They are based around the four priorities:-
 
@@ -18,7 +16,7 @@ Resources:
 - Actionable: 
 
 
-### Prime Time
+## Prime Time
 
 In time management, prime time refers to when a person is most productive and energised. There are two types:-
 
@@ -35,7 +33,7 @@ Resources:
 - Actionable: 
 
 
-### Weekly 3-Step Planning Process
+## Weekly 3-Step Planning Process
 
 There are multiple variations to the 3 Step planning process, as what is deemed necessary varies from person to person. However, the core steps that the author uses every Monday are:- 
 
@@ -49,6 +47,6 @@ Resources:
 - Audible Resources:
 - Actionable: 
 
-### 5 Minute Pause and Plan
+## 5 Minute Pause and Plan
 
 

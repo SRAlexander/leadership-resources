@@ -1,4 +1,4 @@
-# Leaderhsip Resources
+# Leadership Resources
 
 This repository is a collection of resources relating to key leadership and management topics. 
 
@@ -17,7 +17,7 @@ This repository is a collection of resources relating to key leadership and mana
 10. Unconcious Biases
 
 11. Organisation
-12. Equality Diversity & Inclusion 
+12. Equality, Diversity & Inclusion 
 13. Data
 14. Problem Solving and Decision Making
 15. Project Life Cycle & Time Allocation 
@@ -41,4 +41,5 @@ This repository is a collection of resources relating to key leadership and mana
 30. HR Policy 
 31. Governance & Budget Controls
 32. Leading People & Managing People
+
 

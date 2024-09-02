@@ -1,8 +1,6 @@
 # Managing Self
 
-## Learning Styles
-
-### Honey and Mumford learning cycle
+## Honey and Mumford learning cycle
 
 The Honey and Mumford, learning style model, is a way to understand how people learn and retain information. It's based on the idea that people have four different learning styles that they move through over time but eventually develop a preference for one or more. The four styles are: 
 
