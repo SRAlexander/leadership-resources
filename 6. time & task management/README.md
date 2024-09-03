@@ -1,5 +1,24 @@
 # Time & Task Management
 
+## Murpheys Ten Laws of Time Management
+
+1. If anything can go wrong, it will do so.
+2. Nothing is ever as simple as it seems.
+3. If you mess with something for long enough, it will break.
+4. If you try to please everybody, somebody won’t like it.
+5. Nothing ever works out exactly as you expect.
+6. Whatever you want to do,there is always something else you have to do first.
+7. If you explain something so that no one could possibly misunderstand , someone will.
+8. Nothing is certain until it has happened ( and then you should check it more than once).
+9. If everything is going according to plan, then it is a sure sign that something is about to go wrong.
+10. The only predictable thing about your day is that something totally unexpected will happen.
+
+Resources: 
+- Reading Resources: https://www.instagantt.com/project-management/what-is-the-murphys-law
+- Video Resources: 
+- Audible Resources:
+- Actionable: 
+
 ## Technique - Stephen Covey's Time Management Matrix
 
 A time management matrix is a methodology of planning your tasks according to their importance and deadline so that you can do them at the right time. They are based around the four priorities:-
@@ -49,4 +68,15 @@ Resources:
 
 ## Technique - 5 Minute Pause and Plan
 
+The five minute pause and plan is a method that encourages a pause to revaluate your current position and adjust if nessisary. It can happen at the start or the end of your wokring day and provided different benefits pending on when you chose to use it. It consists of asking yourself three questions:-
 
+1. What went weel today / yesterday
+2. What task need to be forwar dplanned if not completed?
+3. How much time is avaliable vs expecectations. 
+
+
+Resources: 
+- Reading Resources: 
+- Video Resources :
+- Audible Resources:
+- Actionable: 
