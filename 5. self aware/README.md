@@ -31,3 +31,58 @@ Resources:
 - Video Resources: https://www.youtube.com/watch?v=Zi4SvpAFRmY
 - Audible Resources:
 - Actionable: 
+
+## Reflective Techniques - Emotional Inteligence
+
+Emotional intelligence (EI) is the ability to manage your own emotions and understand the emotions of others. It's made up of the following topics:-
+
+Inner intelligence-
+- Self-Awareness
+- Managing our emotions (self-regulation)
+- Being self-motivated
+
+Outer inteligence or Relationship Management (Empathy & social skills):-
+- Meeting each others needs
+- Dynmic Lisning
+- Establishing empathy
+- Exploratory questions
+- Trust building
+- Engage in exchange
+
+
+Resources: 
+- Reading Resources: 
+- Video Resources: https://www.youtube.com/watch?v=n9h8fG1DKhA
+- Audible Resources:
+- Actionable: 
+
+## Reflective Techniques - Resilience: The Game Plan
+
+The game plan is provides tecniques around building resilience in four areas:-
+
+- Turnaround toughness: reconect with previous successes , learn and move on. 
+- Critical Moment toughness: Control the controlable.
+- Endurance toughness: Manage your energy and outlook.
+- Risk management toughness: Seek out the challenge, reframe your appraisal. 
+
+This is a paywall reosource via a book:-
+ 
+Resources: 
+- Reading Resources: https://www.wob.com/en-gb/books/steve-bull/game-plan/9781841127255?gad_source=1&gclid=Cj0KCQjwiuC2BhDSARIsALOVfBLOq_HfpmFnzv8MUjJqrEM8vjiNTlyS9OCwr2nAR97Eto_sP8i8XJAaAlB1EALw_wcB#GOR001685648
+- Video Resources: 
+- Audible Resources:
+- Actionable: 
+
+## Reflective Techniques - BOUNCE
+TODO: Confirm resources
+
+
+## Process for Feedback - Example, Effect, Change / Continue (TODO: May be more relevant under high perofming teams / conflict management )
+
+The EEC model is a simple and effective framework for delivering constructive feedback that focuses on three aspects: Example, Effect, and Change. Example refers to the specific behavior or action that you observed and want to give feedback on. Effect refers to the impact or consequence of that behavior or action, both positive and negative. Change refers to the desired outcome or improvement that you want to see from the feedback recipient. By using the EEC model, you can provide concrete and objective feedback that helps the recipient understand what they did well, what they need to work on, and how they can achieve their goals.
+
+Resources: 
+- Reading Resources: https://www.peopletopia.co.uk/single-post/2017/11/02/download
+- Video Resources: https://www.youtube.com/watch?v=J9jL-lNMZlw
+- Audible Resources:
+- Actionable: 

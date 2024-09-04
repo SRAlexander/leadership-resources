@@ -80,3 +80,7 @@ Resources:
 - Video Resources :
 - Audible Resources:
 - Actionable: 
+
+## Technique - Time Boxing
+## Technique - Pomodoro Technqiue
+## Technique - 10 Minute Jobs 
