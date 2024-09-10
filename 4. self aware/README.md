@@ -49,7 +49,6 @@ Outer inteligence or Relationship Management (Empathy & social skills):-
 - Trust building
 - Engage in exchange
 
-
 Resources: 
 - Reading Resources: 
 - Video Resources: https://www.youtube.com/watch?v=n9h8fG1DKhA
