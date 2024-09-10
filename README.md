@@ -4,42 +4,32 @@ This repository is a collection of resources relating to key leadership and mana
 
 ## Topics
 
-1. Personal Development Plans
-2. Managing Self: [Read](2.%20managing%20self/README.md)(In-progress)
-3. Start with the End in Mind
-4. Managers vs Leaders
-
-5. Self Aware
-6. Time & Task Management [Read](6.%20time%20&%20task%20management/README.md)(In-progress)
-7. Communication Methods
-8. Chairing Meetings and Presenting
-9. Awareness of Self <-
-10. Unconcious Biases
-
-11. Organisation
-12. Equality, Diversity & Inclusion 
-13. Data
-14. Problem Solving and Decision Making
-15. Project Life Cycle & Time Allocation 
-16. Stakeholders
-17. Managing Change <-
-18. Building Relationships & Communication 
-
-19. High Performing Teams
-20. Motivation
-21. Conflict Management
-22. Learning Styles
-23. Emotional Inteligence 
-24. Project Management & Decision Making
-
-25. Influence & Negotiating
-26. Coaching & Feedback
-27. Operational Management 
-
-28. Belbin Team Roles
-29. Performance Management
-30. HR Policy 
-31. Governance & Budget Controls
-32. Leading People & Managing People
+1. Personal Development Plans: [Read](1.%20personal%20development/README.md) (TODO)
+2. Managing Self: [Read](2.%20managing%20self/README.md) (In-progress)
+3. Managers vs Leaders: [Read](3.%20managers%20vs%20leaders/README.md) (In-progress)
+4. Self Aware: [Read](4.%20self%20aware/README.md) (In-progress)
+5. Time & Task Management [Read](5.%20time%20&%20task%20management/README.md) (In-progress)
+6. Communication Methods & Relationships: [Read](6.%20communication%20methods%20and%20relationships/README.md) (In-progress)
+7. Chairing Meetings and Presenting: [Read](7.%20chairing%20meetings%20and%20presenting/README.md) (TODO)
+8. Unconcious Biases: [Read](8.%20unconcious%20biases/README.md) (TODO)
+9. Organisation: [Read](9.%20organisation/README.md) (TODO)
+10. Equality, Diversity & Inclusion: [Read](10.%20equality,%20diveristy%20and%20inclusion/README.md) (TODO)
+11. Data: [Read](11.%20data/README.md) (TODO)
+12. Problem Solving and Decision Making: [Read](12.%20problem%20solving%20and%20decision%20making/README.md) (TODO)
+13. Project Life Cycle & Time Allocation: [Read](13.%20project%20lifecycle%20and%20time%20allocation/README.md) (TODO)
+14. Stakeholders: [Read](14.%20stakeholders/README.md) (TODO)
+15. Managing Change: [Read](15.%20managing%20change/README.md) (TODO)
+16. High Performing Teams: [Read](16.%20high%20performing%20teams/README.md) (TODO)
+17. Motivation: [Read](17.%20motivation/README.md) (TODO)
+18. Conflict Management: [Read](18.%20conflict%20management/README.md) (TODO)
+19. Learning Styles: [Read](19.%20learning%20styles/README.md) (TODO)
+20. Project Management: [Read](20.%20project%20management/README.md) (TODO)
+21. Influence & Negotiating: [Read](21.%20influence%20and%20negotiating/README.md) (TODO)
+22. Coaching & Feedback: [Read](22.%20coaching%20and%20feedback/README.md) (TODO)
+23. Operational Management: [Read](23.%20operational%20management/README.md) (TODO)
+24. Performance Management: [Read](24.%20performance%20management/README.md) (TODO)
+25. HR Policy: [Read](25.%20hr%20policy/README.md) (TODO) 
+26. Governance & Budget Controls: [Read](26.%20governance%20and%20budget%20controls/README.md) (TODO)
+27. Leading People & Managing People: [Read](27.%20leading%20and%20managing%20people/README.md) (TODO)
 
 

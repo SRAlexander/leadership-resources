@@ -82,5 +82,13 @@ Resources:
 - Actionable: 
 
 ## Technique - Time Boxing
+
+TODO
+
 ## Technique - Pomodoro Technqiue
+
+TODO
+
 ## Technique - 10 Minute Jobs 
+
+TODO
